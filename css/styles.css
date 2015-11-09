@@ -3,10 +3,30 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: blue;
+}
 
+.color-2 {
+    background: yellowgreen;
+}
+
+.color-3 {
+    background: lightblue;
+}
 
 /* Textures or Patterns*/
+.pattern-1 {
+    background: url(../img/congruent_pentagon.png);
+}
 
+.pattern-2 {
+    background: url(../img/dark_embroidery.png);
+}
+
+.pattern-3 {
+    background: url(../img/grey_wash_wall.png);
+}
 
 /* Imagery */
 
@@ -15,7 +35,13 @@
 
 
 /* Typography */
+h1, h2 {
+    font-family: 'Special Elite', cursive;
+}
 
+h3 {
+    font-family: 'Josefin Slab', serif;
+}
 
 /* Forms */
 
